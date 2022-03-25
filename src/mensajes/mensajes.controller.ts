@@ -10,9 +10,7 @@ export class MensajesController {
     constructor(private mensajesServices: MensajesService){
 
     }
-
     // metodos http que seran usados para el manejo de los datos recibidos por el Body
-
     /**
      * then para recibir la respuesta
      * catch para capturar el error en tal caso
